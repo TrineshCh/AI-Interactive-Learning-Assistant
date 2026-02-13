@@ -1,0 +1,32 @@
+[
+    {
+        "query": "what is llm and how to make it in home using low resource hardware",
+        "solution": "LLM stands for Low Level of Machine and is a type of machine learning that is made using low resource hardware. It is a type of pre-trained deep learning model that is pre-trained on large amounts of unlabeled data and has been pre-trained on data collected on low-end consumer hardware devices such as PCs, smartphones, and tablets.\r\n\r\nLLMs are commonly used for tasks such as image classification, sentiment analysis, and speech recognition. They are also being used in applications such as autonomous vehicles, virtual assistants, and natural language processing.\r\n\r\nTo make an LLM in home using low resource hardware, you would need:\r\n\r\n1. A low-cost computer system with enough RAM and processing power to run a deep learning model.\r\n2. A large amount of unlabeled data.\r\n3. A set of pre-trained models for different tasks you want to train on the data.\r\n4. An interface for interacting with the pre-trained models.\r\n5. A way of training the models on the unlabeled data using the pre-trained models.\r\n\r\nHere are some steps to make an LLM in home using low resource hardware:\r\n\r\n1. Download and install the pre-trained models: You will need to download the pre-trained models and unpack them to your computer. You can use a tool such as TensorFlow's python interface or the huggingface transformer interface to do this.\r\n\r\n2. Load the unlabeled data: You will need to load the unlabeled data that you have pre-processed and formatted in a way that it can be used as the training data for the LLM. This can include things like text pre-processing, numerical feature extraction, and labeling.\r\n\r\n3. Train the LLM: You will need to train the LLM using the data you have loaded. You can use a tool such as TensorFlow's python interface or the huggingface transformer interface to do this.\r\n\r\nHere is an example of how to use a pre-trained LLM in low-cost hardware using unlabeled data:\r\n\r\n1. Download and unpack the pre-trained models: The pre-trained models can be found on GitHub at https://github.com/huggingface/models.",
+        "feedback_type": "bad",
+        "timestamp": "2025-06-24T08:38:06.548391"
+    },
+    {
+        "query": "what is this",
+        "solution": "A camel in the desert could be either a metaphor for a difficult situation, or a reference to the desert, a barren and desolate region in the middle of the country.",
+        "feedback_type": "bad",
+        "timestamp": "2025-06-27T16:54:05.937121"
+    },
+    {
+        "query": "what is the meaning of Harsh",
+        "solution": "The meaning of harsh can be determined through context and the rest of the sentence. If you are in a group of 4 people and say \"What do you think of harsh\", the meaning is that everyone should agree with the statement. If you are in a group of 4 and say \"Harsh\", then the meaning is that everyone should say the statement is false.",
+        "feedback_type": "bad",
+        "timestamp": "2025-07-07T15:41:20.592432"
+    },
+    {
+        "query": "the traffic laws in India",
+        "solution": "The Indian traffic laws and regulations aim to promote the safety and well-being of all road users, including pedestrians, cyclists, and motorists. Here are some of the key traffic laws and regulations in India:\r\n\r\n* The Motor Vehicles Act of 1929: This act is the foundation of all traffic laws in India and regulates the operation of motor vehicles.\r\n\r\n* The Road Transport and Highways Act, 2002: This act provides a framework for the development and management of roads and highways in India, and regulates the transport of cargo and people by motor vehicles.\r\n\r\n* The National Highways Act, 94: This act defines a national highways network and regulates the construction, maintenance, and use of highways in India.\r\n\r\n* The National Transportation Policy of 2008: This policy aims to promote the well-being of all road users, including pedestrians, cyclists, and motorists, by addressing issues such as safety, accessibility, and equity.\r\n\r\nThese are just a few of the many traffic laws and regulations in India, which aim to ensure the safety and well-being of all road users.",
+        "feedback_type": "bad",
+        "timestamp": "2025-07-11T16:39:24.639389"
+    },
+    {
+        "query": "what is this",
+        "solution": "It is a photograph of a man with a red and blue-tinted eye, which is often referred to as a \"Robot Eye\". This was a photograph created by artist Robert Frank in 1973, and it became known as one of the most influential photos of the 20th century. It depicts a man, named Robert Frank, who is seen with a robotic-looking eye, which has been tinted red and blue, as though it were a camera lens. The photo was taken during Frank's trip to the Statue of Liberty, and it has been interpreted as a commentary on technology, the media, and the role of the individual in society. In the 1980 film \"The Robert Frank Picture\", Frank's eye is portrayed as a robotic camera, with the eyes of the other characters being replaced with digital cameras. The film's ending suggests that the robotic eye represents the future, and that the other characters are doomed to live with it. However, the robotic eye in the photograph is considered by many to be a symbol of hope and optimism in the face of technology.",
+        "feedback_type": "good",
+        "timestamp": "2025-07-12T09:45:52.440835"
+    }
+]

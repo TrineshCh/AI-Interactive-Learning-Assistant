@@ -1,0 +1,23 @@
+# Web framework
+Flask
+
+# File handling and image processing
+Pillow
+
+# LLaMA inference
+llama-cpp-python
+
+# Transformers and BLIP
+transformers
+
+# PyTorch
+torch
+
+# NumPy
+numpy
+
+# OpenVINO Runtime
+openvino
+
+# If you also want OpenVINO tools for conversion etc., you can add:
+# openvino-dev

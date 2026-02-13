@@ -100,7 +100,7 @@ Follow these steps to set up and run the AI-Powered Interactive Learning Assista
 
 Open your terminal or command prompt and run:
 ```bash
-git clone [https://github.com/NarayanTheRocker/AI-Interactive-Learning-Assistant.git](https://github.com/NarayanTheRocker/AI-Interactive-Learning-Assistant.git)
+git clone [https://github.com/TrineshTheRocker/AI-Interactive-Learning-Assistant.git](https://github.com/TrineshTheRocker/AI-Interactive-Learning-Assistant.git)
 cd AI-Interactive-Learning-Assistant
 ```
 ---
